@@ -1,0 +1,31 @@
+1. 
+Afișați stocul  de GPU vândut de supplierul 1.
+
+2. 
+Afișați toate GPU-urile de la MSI și Nvidia.
+
+3. 
+Găsiți toate perechile de GPU de memorie citită de la tastatură cu brandul citit de la tastatură.
+
+4. 
+Sortați supplieri crescător dupa reducerea la 4 plăci, apoi descrescător dupa nume.
+
+5. 	
+Inserați un brand cu toate datele citite de la tastatură.
+Inserați un GPU cu toate datele citite de la tastatură, de la brandul inserat anterior.
+Inserați GPU-ul în stoc cu toate datele citite de la tastatură.
+
+6. 
+Calculați media prețurilor GPU-urilor fără atributul deadstock.
+
+7. 
+Găsiți GPU-ul cel mai ieftin cu memoria și brandul citit de la tastatură, cu atributul deadstock.
+
+8. 
+Găsiți cel mai ieftin și cel mai scump GPU vândut de un supplier cu numele citit de la tastatură, afișați detalii despre GPU si calculați-le prețul total, după aplicarea reducerii.
+
+9. 
+Găsiți toți supplieri (nume) care vând GPU-urile de la brandul citit de la tastatură.
+
+10. 
+Găsiți de la care alt supplier (nume) își ia GPU-uri supplierul cu numele citit de la tastatură. 
